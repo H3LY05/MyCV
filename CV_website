@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nils Dass - CV</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Quelques mots derrière un visage</h1>
+    <p>Je m'appelle Nils DASS et j'ai 29 ans, je viens de la région lyonnaise en France.</p>
+    <p>Passionné d'arts, je pratique de la guitare régulièrement depuis 15 ans...</p>
+  </header>
+
+  <section id="marketing">
+    <h2>Une voie marketing</h2>
+    <p>Issu d’une filière marketing via un Bac STMG et un BTS NRC...</p>
+  </section>
+
+  <section id="meta">
+    <h2>Ads specialist for Meta ads</h2>
+    <p>J'ai travaillé plusieurs fois pour Concentrix, le fournisseur direct de Meta...</p>
+  </section>
+
+  <section id="innovation">
+    <h2>Une fibre pour l'innovation</h2>
+    <p>Après plusieurs années à travailler en tant qu'autodidacte...</p>
+  </section>
+
+  <section id="contact">
+    <h2>Pour me contacter :</h2>
+    <p>Email : <a href="mailto:nils.dass@gmail.com">nils.dass@gmail.com</a></p>
+    <p>Téléphone : +33 6 88 79 51 39</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Nils Dass</p>
+  </footer>
+</body>
+</html>
